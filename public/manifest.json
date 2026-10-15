@@ -1,0 +1,24 @@
+{
+  "short_name": "Zanu Chat",
+  "name": "Zanu Chat Messenger",
+  "description": "Zanu Chat - Modern real-time messaging, voice & video calling, and communities",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0b141a",
+  "theme_color": "#128C7E",
+  "display": "standalone",
+  "orientation": "portrait"
+}

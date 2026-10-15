@@ -1,0 +1,6 @@
+{
+  "name": "Zanu Chat",
+  "description": "Zanu Chat - Modern real-time messaging, voice/video calling, status stories, and communities platform.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
